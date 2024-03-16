@@ -13,6 +13,7 @@ https://github.com/SachinScaler/UnsupervisedML_Feb24/tree/main/5%20Minute%20Summ
 ### Other Important Links
 #### KMeans
 Michigan Clustering PDF : https://cs.wmich.edu/alfuqaha/summer14/cs6530/lectures/ClusteringAnalysis.pdf
+
 Visualization  K-Means:  https://www.naftaliharris.com/blog/visualizing-k-means-clustering/
 
 #### DunnIndex and 20Silhoutte_Score
@@ -20,11 +21,14 @@ https://github.com/SachinScaler/UnsupervisedML_Feb24/blob/main/DunnIndex%20and%2
 
 #### GMM
 Gaussian Visualization : http://socr.ucla.edu/htmls/HTML5/BivariateNormal/
+
 https://jakevdp.github.io/PythonDataScienceHandbook/05.12-gaussian-mixtures.html
 
 #### t-SNE
 TSNE Oreiley : https://www.oreilly.com/content/an-illustrated-introduction-to-the-t-sne-algorithm/
+
 How to User t-SNE Effectively: https://distill.pub/2016/misread-tsne/
+
 t-SNE Research Paper: https://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf
 
 
