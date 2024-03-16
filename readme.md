@@ -16,7 +16,7 @@ Michigan Clustering PDF : https://cs.wmich.edu/alfuqaha/summer14/cs6530/lectures
 
 Visualization  K-Means:  https://www.naftaliharris.com/blog/visualizing-k-means-clustering/
 
-#### DunnIndex and 20Silhoutte_Score
+#### DunnIndex and Silhoutte_Score
 https://github.com/SachinScaler/UnsupervisedML_Feb24/blob/main/DunnIndex%20and%20Silhoutte_Score.ipynb
 
 #### GMM
